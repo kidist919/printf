@@ -1,9 +1,12 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef MAIN_H
+#define MAIN_H
 
 #include <stdarg.h>
 #include <stddef.h>
 #include <stdlib.h>
+#include <limits.h>
+#include <unistd.h>
+
 
 /**
  * struct structprint - structure containing
